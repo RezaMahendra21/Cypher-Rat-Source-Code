@@ -1,18 +1,17 @@
 # Cypher-Rat-Full
-Cypher Rat v3.5 Full Version - Advanced Android Remote Tool 2022
+Cypher Rat v3.5 Versi Lengkap - Alat Remote Android Canggih 2022
 
+Cypher Rat adalah Alat Administrasi Jarak Jauh Android Canggih
+Dengan Cypher Rat, Anda dapat meremote dan Mengelola ponsel android Anda
+dengan mudah dari windows
 
-Cypher Rat is Advanced Android Remote Administration Tool
-With Cypher Rat You can remote and Manage your android phone
-easily from windows
-
-**HOW TO REMOTE/CONTROL ANDROID FORM WINDOWS**
+**CARA REMOTE/MENGOTROL ANDROID DARI WINDOWS**
 
 --------------
 
-**Warning** !!  
+**Peringatan** !!
 
-you are the only responsible for any kind of use of this tool , the developer is not responsible at all .
+Anda adalah satu-satunya yang bertanggung jawab atas segala jenis penggunaan alat ini, pengembang tidak bertanggung jawab sama sekali.
 
 --------------
 
@@ -20,117 +19,111 @@ you are the only responsible for any kind of use of this tool , the developer is
 
 -------------
 
+**PEMBARUAN 18/6/2022** !! BARU
 
-**UPDATE 6/18/2022** !!  NEW 
+1- Rilis Kode Sumber
 
-1- Release The Source Code
-
-2- Apk Src and injector Src Available on Sellix FOR 75$ Consider it as Support for me
+2- Apk Src dan injector Src Tersedia di Sellix DENGAN HARGA 75$ Anggap saja sebagai Dukungan untuk saya
 
 [APK SRC+ injector SRC](https://craxsrat.sellix.io/product/62ae0306351a7)
 
-**PS: Downlaod Compiled version and copy res Folder to bin**
+**PS: Unduh versi yang dikompilasi dan salin Folder res ke bin**
 
 --------------
-
 
 -------------
 
+**PEMBARUAN 10/6/2022** !! BARU
 
-**UPDATE 6/10/2022** !!  NEW 
+1- Perbaiki Rat yang tidak Berfungsi pada beberapa rdp
 
-1- Fix Rat not Working on some rdp
+2- Perbaiki Monitor Layar yang tidak berfungsi beberapa saat
 
-2- Fix Screen Monitor not working some time
+3- Perbarui apk ke yang baru
 
-3- Update apk to new one
+4- jendela instalasi baru untuk apk
 
-4- new install window for apk
+5- manajer aplikasi sekarang menampilkan ikon
 
-5-  application manager now shows icons
+6- Tambahkan teks Enter untuk kontrol layar
 
-6- Add Enter text for screen control
+7- Perbarui Kontrol Layar agar lebih akurat
 
-7-  Update Screen Control More accurate
+8- tema gelap baru
 
-8- new dark them
-
-9- bug fixes and improvements
-
---------------
-
-
-**UPDATE 5/19/2022** !!  
-
-1- Can Run on RDP or Virtual Machine
-
-2- Fix Stuck on builder
-
-3- Fix File Manager
-
-4- update stub to stable one
-
-5- update plugins 
-
-6- Accept any cypher rat clients
-
-7- Super mode (accessibility) optional
-
-8- Fake App Work on All android version
-
-9- phone info Work on All android version
+9- perbaikan bug dan peningkatan
 
 --------------
 
-**UPDATE 4/16/2022** !!  OLD
+**PEMBARUAN 19/5/2022** !!
 
--ADD Cypher Rat injector : cypher jector allows you to inject Any real apk with cypher payload .
--Login stuck fixed
+1- Dapat Berjalan di RDP atau Mesin Virtual
 
--No VMWARE
+2- Memperbaiki Stuck pada builder
 
--No RDP
+3- Memperbaiki File Manager
 
--No VNC
+4- memperbarui stub ke versi stabil
 
--THIS RAT is FREE - NOT FOR SELL
+5- memperbarui plugin
 
--Warning this version clients will only work with this version
+6- Menerima semua klien cypher rat
 
---------------
+7- Mode super (aksesibilitas) opsional
 
+8- Aplikasi Palsu Berfungsi di Semua versi android
 
-Available features :
-
--> Manager : Files , Sms , Contacts , Calls , Accounts ,Apps
-
--> Monitor : Live screen , Live Camera , online/offline Keylogger , Live Microphone , Live Location
-
--> Tools : Call Number , Download/install Apk , Show Toast , Get/Set Clipboard , Open Link in Browser , Run Shell Commands
-
--> Extra : Social Media Hunter , Notifications Monitor , Get Phone info .
+9- info telepon Berfungsi di Semua versi android
 
 --------------
 
-Apk features :
+**PEMBARUAN 16/4/2022** !! LAMA
 
-1 : HIDE APK Work on all android 10 and 11
+- TAMBAHKAN injektor Cypher Rat: cypher jektor memungkinkan Anda untuk menyuntikkan apk asli apa pun dengan muatan cypher. -Login macet sudah diperbaiki
 
-2 : Bind With apk
+-Tidak ada VMWARE
 
-3 : Fake Apk : Create A fake apk using any website
+-Tidak ada RDP
 
-4 : custom notification 
+-Tidak ada VNC
+
+-RAT INI GRATIS - BUKAN UNTUK DIJUAL
+
+-Peringatan klien versi ini hanya akan bekerja dengan versi ini
+
+--------------
+
+Fitur yang tersedia:
+
+-> Manajer: File, SMS, Kontak, Panggilan, Akun, Aplikasi
+
+-> Monitor: Layar langsung, Kamera Langsung, Keylogger online/offline, Mikrofon Langsung, Lokasi Langsung
+
+-> Alat: Nomor Panggilan, Unduh/instal Apk, Tampilkan Toast, Dapatkan/Setel Clipboard, Buka Tautan di Browser, Jalankan Perintah Shell
+
+-> Tambahan: Pemburu Media Sosial, Monitor Notifikasi, Dapatkan info Telepon.
+
+--------------
+
+Fitur Apk :
+
+1 : SEMBUNYIKAN APK Berfungsi di semua android 10 dan 11
+
+2 : Terikat dengan apk
+
+3 : Apk Palsu : Buat apk palsu menggunakan situs web mana pun
+
+4 : pemberitahuan khusus
 
 5 : Anti Emulator
 
-6 : And More.
+6 : Dan masih banyak lagi.
 
 --------------
 
-Images : 
+Gambar :
 
-![Untitled](https://user-images.githubusercontent.com/54191699/154522190-89317b03-ff03-4558-9b7f-8c8e5e026728.png )
+![Tanpa judul](https://user-images.githubusercontent.com/54191699/154522190-89317b03-ff03-4558-9b7f-8c8e5e026728.png )
 
 ![22](https://user-images.githubusercontent.com/54191699/154522261-deede150-ae0f-4a8b-9f11-ad889c326f90.png)
 
@@ -138,30 +131,29 @@ Images :
 
 ![sss](https://user-images.githubusercontent.com/54191699/163656673-1101c7a5-2db9-4948-bb0e-2059d6f51b76.png)
 
+--------------
+
+[UJI COBA Video](https://vimeo.com/679676270)
+
+[CARA MENGGUNAKAN CYPHER RAT PANDUAN LENGKAP](https://vimeo.com/697563764)
+
+[CARA MENGGUNAKAN CYPHER RAT INJEKSI](https://vimeo.com/699933150)
 
 --------------
 
-[TEST Video](https://vimeo.com/679676270)
+**PEMBARUAN 10/6/2022** BARU
 
-[HOW TO USE CYPHER RAT FULL GUIDE](https://vimeo.com/697563764)
-
-[HOW TO USE CYPHER RAT INJECTION](https://vimeo.com/699933150)
+[UNDUH](https://www.mediafire.com/file/ci74w5dhinrsd2t/CypherRat+V3.5.rar/file)
 
 --------------
 
-**UPDATE 6/10/2022**  NEW
+**PEMBARUAN 19/5/2022**
 
-[DOWNLOAD](https://www.mediafire.com/file/ci74w5dhinrsd2t/CypherRat+V3.5.rar/file)
-
---------------
-
-**UPDATE 5/19/2022**
-
-[DOWNLOAD OLD VERSION](https://www.mediafire.com/file/nmrpeg05ugyembm/Cypher_Rat_V3_Full_Version.rar/file)
+[UNDUH LAMA VERSI](https://www.mediafire.com/file/nmrpeg05ugyembm/Cypher_Rat_V3_Full_Version.rar/file)
 
 --------------
 
-**SUPPORT**
+**DUKUNGAN**
 
 XMR: 872Weh1x7D5iwSeJXfWXEgToksFP9pxMgG8n9cH1g1jhWa29WD5DHBpi5am4D3L7t35ytyn8dMHbgQUwvAv3yZr9SPxeCHc
 
@@ -169,12 +161,8 @@ BTC: 3MxGH1iN5pkmRJnHVrUb1FiiwEvkrWBSUt
 
 [YOUTUBE](https://www.youtube.com/channel/UC-k_KeCkQ6RYm0GFoLfd7Cw)
 
-
 --------------
 
-This project is licensed under the MIT License - see the [LICENSE](https://github.com/EVLF/Cypher-Rat-Full/blob/main/LICENSE) file for details
+Proyek ini dilisensikan di bawah Lisensi MIT - lihat [LISENSI](https://github.com/EVLF/Cypher-Rat-Full/blob/main/LICENSE) untuk detailnya
 
-
-
-
-#cypher_rat, #Cypher_rat_v3, #cypher_Rat_by_evlf, cypher rat v3, cypher rat, cypher rat 2022, Android rat v3 2022, cypher rat full version, cypher rat v5, cypherrat, android rat, rat android, android vnc, android remote, android control, android monitor, mspy, spynote, spymax, mobihok, cypher rat 3.5 , cypher rat screen control , cypher rat monitor , cypher rat v3.5 , cypher_rat_3.5
+#cypher_rat, #Cypher_rat_v3, #cypher_Rat_by_evlf, cypher rat v3, cypher rat, cypher rat 2022, Android rat v3 2022, cypher rat versi lengkap, cypher rat v5, cypherrat, android rat, rat android, android vnc, android remote, android control, android monitor, mspy, spynote, spymax, mobihok, cypher rat 3.5, cypher rat screen control, cypher rat monitor, cypher rat v3.5, cypher_rat_3.5
